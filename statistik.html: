@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Statistik</h1>
+  <h1>Impressum</h1>
 
   <nav>
     <a href="lernmodus.html">Lernmodus</a> |
@@ -17,4 +17,6 @@
     <a href="impressum.html">Impressum</a>
   </nav>
   <hr>
+
 <p>Hier wird später dein Lernfortschritt angezeigt.</p>
+
